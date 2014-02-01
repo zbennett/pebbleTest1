@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "43a3a605-0ff8-40ba-a6a4-2e9d33663532",
+    "appKeys": {},
+    "longName": "Test1",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Test1",
+    "companyName": "zbennett",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
